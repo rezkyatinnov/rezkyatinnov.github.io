@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on @rezkyatinnov</title>
-    <link>http://rezkyatinnov.com/categories/</link>
+    <link>https://rezkyatinnov.github.io/categories/</link>
     <description>Recent content in Categories on @rezkyatinnov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://rezkyatinnov.com/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rezkyatinnov.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
