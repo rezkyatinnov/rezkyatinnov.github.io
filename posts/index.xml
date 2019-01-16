@@ -6,10 +6,19 @@
     <description>Recent content in Posts on @rezkyatinnov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 09 Jan 2019 09:55:49 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 16 Jan 2019 17:48:51 +0700</lastBuildDate>
     
 	<atom:link href="https://rezkyatinnov.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Android Jetpack</title>
+      <link>https://rezkyatinnov.com/posts/android-jetpack/</link>
+      <pubDate>Wed, 16 Jan 2019 17:48:51 +0700</pubDate>
+      
+      <guid>https://rezkyatinnov.com/posts/android-jetpack/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Hello World</title>
@@ -17,7 +26,7 @@
       <pubDate>Wed, 09 Jan 2019 09:55:49 +0700</pubDate>
       
       <guid>https://rezkyatinnov.com/posts/hello-world/</guid>
-      <description>Hello world! Been back and forth turning on and off my personal website. Finally decided to do the static thing using gohugo. It&amp;rsquo;s really cool platform. hopefully I&amp;rsquo;ll regularly update this site and share something cool here. Cheers!</description>
+      <description>&lt;p&gt;Hello world! Been back and forth turning on and off my personal website. Finally decided to do the static thing using gohugo.&lt;/p&gt;</description>
     </item>
     
   </channel>
